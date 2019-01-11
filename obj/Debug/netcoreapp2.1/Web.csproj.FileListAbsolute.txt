@@ -12,3 +12,17 @@ C:\Users\GD10\Desktop\190108\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
 C:\Users\GD10\Desktop\190108\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
 C:\Users\GD10\Desktop\190108\Web\obj\Debug\netcoreapp2.1\Web.dll
 C:\Users\GD10\Desktop\190108\Web\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.pdb
+C:\Users\GD10\Web\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\GD10\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\GD10\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\GD10\Web\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\GD10\Web\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\GD10\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
