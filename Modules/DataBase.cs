@@ -53,7 +53,7 @@ namespace Test.Modules
                 }
                 resultList.Add(rowMap);
             }
-            resultMap.Add("msg", "성공");
+            //resultMap.Add("msg", "성공");
             resultMap.Add("result", resultList);
             sdr.Close();
             conn.Close();
@@ -74,7 +74,7 @@ namespace Test.Modules
             comm.CommandText = string.Format("insert into board (title, contents) values ('{0}','{1}');",paramMap["title"], paramMap["contents"]);
             comm.Connection = conn;
             int result = comm.ExecuteNonQuery();
-            resultMap.Add("msg", "성공");
+            //resultMap.Add("msg", "성공");
             resultMap.Add("result", result);
             conn.Close();
             return resultMap;
@@ -94,7 +94,7 @@ namespace Test.Modules
             comm.CommandText = string.Format("update board set title = '{0}', contents = '{1}' where no = {2};", paramMap["title"], paramMap["contents"], paramMap["no"]);
             comm.Connection = conn;
             int result = comm.ExecuteNonQuery();
-            resultMap.Add("msg", "성공");
+            //resultMap.Add("msg", "성공");
             resultMap.Add("result", result);
             conn.Close();
             return resultMap;
@@ -114,7 +114,7 @@ namespace Test.Modules
             comm.CommandText = string.Format("update board set delYn = 'Y', modDate = now() where no = {0};", paramMap["no"]);
             comm.Connection = conn;
             int result = comm.ExecuteNonQuery();
-            resultMap.Add("msg", "성공");
+            //resultMap.Add("msg", "성공");
             resultMap.Add("result", result);
             conn.Close();
             return resultMap;
